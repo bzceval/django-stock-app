@@ -1,6 +1,7 @@
 asgiref==3.7.2
 dj-rest-auth==5.0.1
 Django==4.2.6
+django-filter==23.3
 djangorestframework==3.14.0
 drf-yasg==1.21.7
 inflection==0.5.1
