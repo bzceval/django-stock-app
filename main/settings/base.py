@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'drf_yasg',
     # projects
     'account', 
+    'stock',
 ]
 
 MIDDLEWARE = [
